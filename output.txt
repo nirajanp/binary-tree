@@ -1,0 +1,19 @@
+Output
+
+Text contains 163720 Total words
+Word apperances in the tree:
+the: 8037
+transylvania: 16
+vampire: 24
+harker: 113
+expostulate: 1
+renfield: 39
+Tree is 34 nodes deep
+Tree contains 10856 distinct words
+the
+Word at the root is the
+Deepest word is accessible
+First 20 pre word order: the project gutenberg ebook dracula by bram anyone and almost 16 1 14 111 10 11 1018 1030 124 12 
+First 20 post word order: 1030 1018 11 10 12 124 111 14 1 16 almost and anyone bram by dracula ebook gutenberg project the 
+First 20 in word order: 1 10 1018 1030 11 111 12 124 14 16 almost and anyone bram by dracula ebook gutenberg project the
+
